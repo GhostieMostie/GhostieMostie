@@ -1,8 +1,15 @@
 # GhostieMostie
 
-I build practical open-source fixes, CI evidence, and review-ready QA artifacts for maintainers and paid contributors.
+I build practical open-source fixes, CI evidence systems, and review-ready QA artifacts for maintainers and paid contributors who need less ambiguity and faster decisions.
 
 ## Current Tools
+
+## Choose By Pain
+
+| If this is the problem | Start here | Outcome |
+| --- | --- | --- |
+| A GitHub Actions, Playwright, Cypress, Vercel, Codecov, or auth-only check is blocking review | [Flaky CI War Room Kit](https://github.com/GhostieMostie/flaky-ci-war-room-kit-preview) | Classify the failure, package evidence, and post a maintainer-safe next-action comment. |
+| A bug fix, bounty attempt, or PR needs cleaner reproduction, validation, risk notes, and payment-claim discipline | [Open-Source Maintainer CI and QA Kit](https://github.com/GhostieMostie/open-source-maintainer-ci-qa-kit-preview) | Turn one work item into a review-ready evidence folder. |
 
 ### Flaky CI War Room Kit
 
@@ -17,7 +24,7 @@ A practical kit for turning failed GitHub Actions, Playwright, Cypress, and auth
 Free preview and checklist:
 https://github.com/GhostieMostie/flaky-ci-war-room-kit-preview
 
-Full kit:
+Full kit ($49):
 https://buy.polar.sh/polar_cl_O8W0JAM4YK7j1USSjXMFAMCtEdGYBQKbCfMo12Cswep
 
 ### Open-Source Maintainer CI and QA Kit
@@ -32,8 +39,15 @@ A compact kit for turning a bug fix, bounty attempt, or maintainer patch into so
 Free preview and checklist:
 https://github.com/GhostieMostie/open-source-maintainer-ci-qa-kit-preview
 
-Full kit:
+Full kit ($29):
 https://buy.polar.sh/polar_cl_TKClMaFhmU2f2LYHXKLnBdRN8rDgyvZTudbzU1zFj0G
+
+## What Buyers Get
+
+- Downloadable, reusable Markdown templates and workflows.
+- No-dependency generators with sample JSON briefs.
+- Public-comment patterns that reduce review work without making unsafe payment claims.
+- Practical guardrails for forks, protected secrets, auth-only CI, flaky tests, and bounty ambiguity.
 
 ## Operating Style
 
