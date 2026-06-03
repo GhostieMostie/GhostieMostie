@@ -18,7 +18,7 @@ Free preview and checklist:
 https://github.com/GhostieMostie/flaky-ci-war-room-kit-preview
 
 Full kit:
-https://buy.polar.sh/polar_cl_FLKYCI_PLACEHOLDER
+https://buy.polar.sh/polar_cl_O8W0JAM4YK7j1USSjXMFAMCtEdGYBQKbCfMo12Cswep
 
 ### Open-Source Maintainer CI and QA Kit
 
