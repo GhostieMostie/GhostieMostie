@@ -2,7 +2,23 @@
 
 I build practical open-source fixes, CI evidence, and review-ready QA artifacts for maintainers and paid contributors.
 
-## Current Tool
+## Current Tools
+
+### Flaky CI War Room Kit
+
+A practical kit for turning failed GitHub Actions, Playwright, Cypress, and auth-only checks into maintainer-ready CI reports:
+
+- no-dependency CI war-room report generator
+- flaky-test issue and quarantine templates
+- Playwright/Cypress artifact checklist
+- auth-only and infrastructure-owned failure notes
+- maintainer-safe CI comments
+
+Free preview and checklist:
+https://github.com/GhostieMostie/flaky-ci-war-room-kit-preview
+
+Full kit:
+https://buy.polar.sh/polar_cl_FLKYCI_PLACEHOLDER
 
 ### Open-Source Maintainer CI and QA Kit
 
