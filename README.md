@@ -8,9 +8,25 @@ I build practical open-source fixes, CI evidence systems, and review-ready QA ar
 
 | If this is the problem | Start here | Outcome |
 | --- | --- | --- |
+| You need one maintainer operating system for AI/agent PR intake, failed CI, and review-ready evidence handoff | [Open-Source Maintainer Triage Bundle](https://github.com/GhostieMostie/open-source-maintainer-triage-bundle-preview) | Get all three paid kits plus the start guide, buyer-routing guide, manifest, and one-day rollout workflow. |
 | AI-generated or agent-authored PRs are arriving without enough evidence for fair review | [Agent PR Gatekeeper](https://github.com/GhostieMostie/agent-pr-gatekeeper-preview) | Decide whether to review, request evidence, classify CI, narrow scope, or park/reject safely before reviewer time is spent. |
 | A GitHub Actions, Playwright, Cypress, Vercel, Codecov, or auth-only check is blocking review | [Flaky CI War Room Kit](https://github.com/GhostieMostie/flaky-ci-war-room-kit-preview) | Classify the failure, package evidence, and post a maintainer-safe next-action comment. |
 | A bug fix, bounty attempt, or PR needs cleaner reproduction, validation, risk notes, and payment-claim discipline | [Open-Source Maintainer CI and QA Kit](https://github.com/GhostieMostie/open-source-maintainer-ci-qa-kit-preview) | Turn one work item into a review-ready evidence folder. |
+
+### Open-Source Maintainer Triage Bundle
+
+The full maintainer-side bundle for projects dealing with low-context PRs, red CI, bounty attempts, and AI-assisted contributions at the same time:
+
+- Agent PR Gatekeeper v1.1
+- Flaky CI War Room Kit v1.1
+- Open-Source Maintainer CI and QA Kit v1.3
+- start guide, buyer-routing guide, manifest, and one-day rollout workflow
+
+Free preview and route selector:
+https://github.com/GhostieMostie/open-source-maintainer-triage-bundle-preview
+
+Full bundle ($129):
+https://buy.polar.sh/polar_cl_O4VAFwUcew1m5QSjAFdrrUhaKPGgrQWAa3Y3y0Nwwoi
 
 ### Agent PR Gatekeeper
 
