@@ -8,8 +8,27 @@ I build practical open-source fixes, CI evidence systems, and review-ready QA ar
 
 | If this is the problem | Start here | Outcome |
 | --- | --- | --- |
+| AI-generated or agent-authored PRs are arriving without enough evidence for fair review | [Agent PR Gatekeeper](https://github.com/GhostieMostie/agent-pr-gatekeeper-preview) | Decide whether to review, request evidence, classify CI, narrow scope, or park/reject safely before reviewer time is spent. |
 | A GitHub Actions, Playwright, Cypress, Vercel, Codecov, or auth-only check is blocking review | [Flaky CI War Room Kit](https://github.com/GhostieMostie/flaky-ci-war-room-kit-preview) | Classify the failure, package evidence, and post a maintainer-safe next-action comment. |
 | A bug fix, bounty attempt, or PR needs cleaner reproduction, validation, risk notes, and payment-claim discipline | [Open-Source Maintainer CI and QA Kit](https://github.com/GhostieMostie/open-source-maintainer-ci-qa-kit-preview) | Turn one work item into a review-ready evidence folder. |
+
+### Agent PR Gatekeeper
+
+A maintainer-side intake kit for AI-generated, agent-authored, and low-context pull requests:
+
+- GitHub PR brief fetcher for public PR URLs
+- no-dependency readiness report generator
+- maintainer-safe comment generator
+- evidence-gap and CI-classification templates
+- bounty claim safety gate
+- maintainer AI PR policy starter
+- artifact-only GitHub Action scaffold
+
+Free preview and checklist:
+https://github.com/GhostieMostie/agent-pr-gatekeeper-preview
+
+Full kit ($99):
+https://buy.polar.sh/polar_cl_tXz7ggyNV5Xfbj9yOBQfgm5S01ytadHbt6HUP213LgG
 
 ### Flaky CI War Room Kit
 
