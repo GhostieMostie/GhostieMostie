@@ -8,7 +8,7 @@ I build practical open-source fixes, CI evidence systems, and review-ready QA ar
 
 | If this is the problem | Start here | Outcome |
 | --- | --- | --- |
-| You need one maintainer operating system for AI/agent PR intake, failed CI, and review-ready evidence handoff | [Open-Source Maintainer Triage Bundle](https://github.com/GhostieMostie/open-source-maintainer-triage-bundle-preview) | Get all three paid kits plus the start guide, buyer-routing guide, manifest, and one-day rollout workflow. |
+| You need one maintainer operating system for AI/agent PR intake, failed CI, review-ready evidence, and noisy bounty boards | [Open-Source Maintainer Triage Bundle](https://github.com/GhostieMostie/open-source-maintainer-triage-bundle-preview) | Get all three paid kits plus the Opire reward scanner, start guide, buyer-routing guide, manifest, and one-day rollout workflow. |
 | AI-generated or agent-authored PRs are arriving without enough evidence for fair review | [Agent PR Gatekeeper](https://github.com/GhostieMostie/agent-pr-gatekeeper-preview) | Decide whether to review, request evidence, classify CI, narrow scope, or park/reject safely before reviewer time is spent. |
 | A GitHub Actions, Playwright, Cypress, Vercel, Codecov, or auth-only check is blocking review | [Flaky CI War Room Kit](https://github.com/GhostieMostie/flaky-ci-war-room-kit-preview) | Classify the failure, package evidence, and post a maintainer-safe next-action comment. |
 | A bug fix, bounty attempt, or PR needs cleaner reproduction, validation, risk notes, and payment-claim discipline | [Open-Source Maintainer CI and QA Kit](https://github.com/GhostieMostie/open-source-maintainer-ci-qa-kit-preview) | Turn one work item into a review-ready evidence folder. |
@@ -20,6 +20,7 @@ The full maintainer-side bundle for projects dealing with low-context PRs, red C
 - Agent PR Gatekeeper v1.1
 - Flaky CI War Room Kit v1.1
 - Open-Source Maintainer CI and QA Kit v1.3
+- Opire reward scanner for filtering closed, crowded, or reputation-risk bounty-board items
 - start guide, buyer-routing guide, manifest, and one-day rollout workflow
 
 Free preview and route selector:
