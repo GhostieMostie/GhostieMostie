@@ -1,6 +1,6 @@
 # GhostieMostie
 
-I build practical open-source fixes, CI evidence systems, and review-ready QA artifacts for maintainers and paid contributors who need less ambiguity and faster decisions.
+I build practical open-source fixes, CI evidence systems, and receipts-first review artifacts for maintainers and paid contributors who need less ambiguity and faster decisions.
 
 ## Current Tools
 
@@ -8,19 +8,20 @@ I build practical open-source fixes, CI evidence systems, and review-ready QA ar
 
 | If this is the problem | Start here | Outcome |
 | --- | --- | --- |
-| You need one maintainer operating system for AI/agent PR intake, failed CI, review-ready evidence, and noisy bounty boards | [Open-Source Maintainer Triage Bundle](https://github.com/GhostieMostie/open-source-maintainer-triage-bundle-preview) | Get all three paid kits plus the Opire reward scanner, start guide, buyer-routing guide, manifest, and one-day rollout workflow. |
-| AI-generated or agent-authored PRs are arriving without enough evidence for fair review | [Agent PR Gatekeeper](https://github.com/GhostieMostie/agent-pr-gatekeeper-preview) | Decide whether to review, request evidence, classify CI, narrow scope, or park/reject safely before reviewer time is spent. |
+| You need one maintainer workbench for PR intake, failed CI, review-ready evidence, and noisy bounty boards | [Open-Source Maintainer Triage Bundle](https://github.com/GhostieMostie/open-source-maintainer-triage-bundle-preview) | Get all three paid kits plus the Opire reward scanner, Receipts Desk, start guide, buyer-routing guide, manifest, and one-day rollout workflow. |
+| Low-context PRs are arriving without enough evidence for fair review | [Agent PR Gatekeeper](https://github.com/GhostieMostie/agent-pr-gatekeeper-preview) | Decide whether to review, request evidence, classify CI, narrow scope, or park/reject safely before reviewer time is spent. |
 | A GitHub Actions, Playwright, Cypress, Vercel, Codecov, or auth-only check is blocking review | [Flaky CI War Room Kit](https://github.com/GhostieMostie/flaky-ci-war-room-kit-preview) | Classify the failure, package evidence, and post a maintainer-safe next-action comment. |
 | A bug fix, bounty attempt, or PR needs cleaner reproduction, validation, risk notes, and payment-claim discipline | [Open-Source Maintainer CI and QA Kit](https://github.com/GhostieMostie/open-source-maintainer-ci-qa-kit-preview) | Turn one work item into a review-ready evidence folder. |
 
 ### Open-Source Maintainer Triage Bundle
 
-The full maintainer-side bundle for projects dealing with low-context PRs, red CI, bounty attempts, and AI-assisted contributions at the same time:
+The full maintainer-side bundle for projects dealing with low-context PRs, red CI, bounty attempts, and unclear review evidence at the same time:
 
-- Agent PR Gatekeeper v1.1
+- Agent PR Gatekeeper v1.2
 - Flaky CI War Room Kit v1.1
 - Open-Source Maintainer CI and QA Kit v1.3
 - Opire reward scanner for filtering closed, crowded, or reputation-risk bounty-board items
+- Maintainer Receipts Desk for one-page review, merge, rerun, or payment handoffs
 - start guide, buyer-routing guide, manifest, and one-day rollout workflow
 
 Free preview and route selector:
@@ -31,14 +32,14 @@ https://buy.polar.sh/polar_cl_O4VAFwUcew1m5QSjAFdrrUhaKPGgrQWAa3Y3y0Nwwoi
 
 ### Agent PR Gatekeeper
 
-A maintainer-side intake kit for AI-generated, agent-authored, and low-context pull requests:
+A maintainer-side intake kit for low-context pull requests:
 
 - GitHub PR brief fetcher for public PR URLs
 - no-dependency readiness report generator
 - maintainer-safe comment generator
 - evidence-gap and CI-classification templates
 - bounty claim safety gate
-- maintainer AI PR policy starter
+- maintainer contribution policy starter
 - artifact-only GitHub Action scaffold
 
 Free preview and checklist:
@@ -82,7 +83,7 @@ https://buy.polar.sh/polar_cl_TKClMaFhmU2f2LYHXKLnBdRN8rDgyvZTudbzU1zFj0G
 
 - Downloadable, reusable Markdown templates and workflows.
 - No-dependency generators with sample JSON briefs.
-- Public-comment patterns that reduce review work without making unsafe payment claims.
+- Receipts-first handoff patterns that reduce review work without making unsafe payment claims.
 - Practical guardrails for forks, protected secrets, auth-only CI, flaky tests, and bounty ambiguity.
 
 ## Operating Style
