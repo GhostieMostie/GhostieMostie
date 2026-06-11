@@ -21,6 +21,7 @@ The full maintainer-side bundle for projects dealing with low-context PRs, red C
 - Flaky CI War Room Kit v1.1
 - Open-Source Maintainer CI and QA Kit v1.3
 - Opire reward scanner for filtering closed, crowded, or reputation-risk bounty-board items
+- Deposit Radar for deciding when active reward lanes need action versus patient monitoring
 - Maintainer Receipts Desk for one-page review, merge, rerun, or payment handoffs
 - start guide, buyer-routing guide, manifest, and one-day rollout workflow
 
