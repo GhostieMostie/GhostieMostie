@@ -1,35 +1,36 @@
 # GhostieMostie
 
-I fix stalled open-source pull requests, flaky CI, and small review blockers. I like bounded work, reproducible checks, and short handoffs that tell a maintainer what changed without making them decode a progress report.
+I work on one blocked pull request or red CI lane at a time. The job stays small, the checks are named, and the handoff says what is fixed, what is still uncertain, and who owns the next step.
 
-## Need One PR Unstuck?
+## Fixed-Scope Sprints
 
-I offer a **$75 PR Cleanup Sprint**: up to two focused hours on one public repository and one concrete blocker.
+**Cleanup sprint - $75**
 
-Good fits are a requested change that needs closing out, a focused CI failure, a small reproduction, or a bounty submission that needs cleaner evidence. You get the patch or diagnosis, the checks I ran, remaining risk, and the next decision.
+Up to two focused hours on one stalled PR, CI failure, reproduction, or review blocker. The result is a safe patch when the cause is bounded, or a clear diagnosis and next decision when it is not.
 
-[Check whether your PR fits the sprint](https://github.com/GhostieMostie/open-source-pr-cleanup-sprint/issues/new?template=sprint-request.yml)
+**Fix sprint - $150**
 
-I will scope it before sending checkout. I do not promise a merge, deployment, or third-party bounty payment.
+Up to four focused hours on one bounded change with an observable acceptance check. The result is a patch, focused validation, and a reviewer-ready handoff.
 
-## Selected Work
+[Check whether a public repository fits](https://github.com/GhostieMostie/open-source-pr-cleanup-sprint/issues/new?template=sprint-request.yml)
 
-- [Cap #1868](https://github.com/CapSoftware/Cap/pull/1868): extracted deployment-stage parsing, added focused Vitest coverage, and closed the reviewer-requested empty-branch edge case.
-- [Space and Time #1743](https://github.com/spaceandtimefdn/sxt-proof-of-sql/pull/1743): added Rust coverage for fold utility helpers with passing repository checks.
-- [TerminalHire #6](https://github.com/GhostieMostie/terminalhire-demo/pull/6): shipped a bounded application fix with a reviewer-facing verification path.
+Work starts only after we agree on the written scope and use a supported contract or payment route. I do not promise a merge, deployment, or third-party bounty payment.
 
-## Self-Serve Tools
+## Current Public Work
 
-For maintainers who would rather run the workflow themselves:
+These submissions are still open. They are listed as work history, not completed customer case studies.
 
-- [Maintainer Triage Bundle](https://github.com/GhostieMostie/open-source-maintainer-triage-bundle-preview) - intake, CI, and evidence tools in one package ($129)
-- [Agent PR Gatekeeper](https://github.com/GhostieMostie/agent-pr-gatekeeper-preview) - decide whether a low-context PR is ready for review ($99)
-- [Flaky CI War Room Kit](https://github.com/GhostieMostie/flaky-ci-war-room-kit-preview) - classify and document one noisy CI failure ($49)
-- [Maintainer CI and QA Kit](https://github.com/GhostieMostie/open-source-maintainer-ci-qa-kit-preview) - build a review-ready evidence folder ($29)
+- [Cap #1868](https://github.com/CapSoftware/Cap/pull/1868): deployment-stage parsing and focused Vitest coverage, including the reviewer-requested empty-branch case.
+- [Space and Time #1743](https://github.com/spaceandtimefdn/sxt-proof-of-sql/pull/1743): Rust coverage for fold utility helpers with passing repository checks.
+- [TerminalHire #6](https://github.com/staqsIO/terminalhire-demo/pull/6): optional separator handling with a focused test and reviewer-facing verification note.
+
+## Free CI Tool
+
+The [Flaky CI War Room Kit preview](https://github.com/GhostieMostie/flaky-ci-war-room-kit-preview) includes a no-dependency failure classifier and a practical handoff format for one noisy CI run.
 
 ## Working Style
 
 - Keep scope small enough to verify.
-- Say what passed, what did not, and who owns the remaining blocker.
-- Stay honest about overlapping attempts and payment status.
+- Say exactly what passed and what did not.
+- Separate implementation evidence from merge or payment decisions.
 - Stop when another message would only add noise.
