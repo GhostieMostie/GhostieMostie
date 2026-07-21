@@ -24,6 +24,11 @@ These submissions are still open. They are listed as work history, not completed
 - [Space and Time #1743](https://github.com/spaceandtimefdn/sxt-proof-of-sql/pull/1743): Rust coverage for fold utility helpers with passing repository checks.
 - [TerminalHire #6](https://github.com/staqsIO/terminalhire-demo/pull/6): optional separator handling with a focused test and reviewer-facing verification note.
 
+## Free Reward Check
+
+Before starting a public GitHub issue, paste its URL into [Reward Reality Check](https://reward-reality-check.catlessgrin.chatgpt.site). It checks the current issue and repository state, explicit cash evidence, existing claims and pull requests, and maintainer hard stops. It runs in the browser and does not post anything.
+
+[View the source](https://github.com/GhostieMostie/reward-reality-check)
 ## Free CI Tool
 
 The [Flaky CI War Room Kit preview](https://github.com/GhostieMostie/flaky-ci-war-room-kit-preview) includes a no-dependency failure classifier and a practical handoff format for one noisy CI run.
