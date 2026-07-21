@@ -8,6 +8,8 @@ I work on one blocked pull request or red CI lane at a time. The job stays small
 
 Up to two focused hours on one stalled PR, CI failure, reproduction, or review blocker. The result is a safe patch when the cause is bounded, or a clear diagnosis and next decision when it is not.
 
+[Book the $75 cleanup through Upwork](https://www.upwork.com/services/product/development-it-a-focused-fix-or-diagnosis-for-one-stalled-github-pr-or-ci-failure-2079406640704166084)
+
 **Fix sprint - $150**
 
 Up to four focused hours on one bounded change with an observable acceptance check. The result is a patch, focused validation, and a reviewer-ready handoff.
